@@ -1,0 +1,16 @@
+*.asv
+*.mat
+*.sh
+.DS_Store
+.vscode
+Codes.prj
+validation_trafficFunctionTUDTrafficModel.m
+validation_trafficFunctionVideo.m
+main_analyzePLandShadowing.m
+main_debugSatisfiedUEs.m
+main_plotPerformanceOverCellLoad_IPlayer.m
+main_plotPerformanceOverCellLoad_PhyLayer.m
+main_plotResourceUtilization.m
+main_plotSchedulingWeight.m
+main_plot_latencyHistogram.m
+runAWGNSimulation.m
